@@ -1,0 +1,35 @@
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+
+# Object / Compiled Files
+*.o
+*.obj
+*.class
+
+# Logs
+*.log
+
+# Build folders
+build/
+bin/
+dist/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# Mac debug files
+*.dSYM/
