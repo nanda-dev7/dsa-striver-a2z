@@ -1,4 +1,4 @@
-/*
+/*                
 Problem: Check if Array is Sorted
 Platform: Striver A2Z
 Topic: Arrays
