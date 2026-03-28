@@ -1,4 +1,4 @@
-/*         
+/*                       
 Problem: Second Largest and Second Smallest Element
 Platform: Striver A2Z
 Topic: Arrays
