@@ -1,4 +1,4 @@
-/*
+/*                                                   
 Problem: Removing Duplicates from a Sorted Array
 Platform: LeetCode / Striver A2Z
 Topic: Arrays
