@@ -13,7 +13,7 @@ Brute Force:
 
 Time Complexity: O(n log n) (insertion in set takes log n)
 Space Complexity: O(n)
-
+    
 -----------------------------------
 
 Optimal Approach:
